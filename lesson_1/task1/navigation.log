@@ -1,0 +1,122 @@
+Script started on Wed May 13 21:19:35 2026
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro learn % [K[?2004hppwd[?2004l
+/Users/iisus.rodilsiagmail.com/Desktop/learn
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro learn % [K[?2004hccd /etc[?2004l
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/etc[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro /etc % [K[?2004hlls[?2004l
+afpovertcp.cfg
+aliases
+aliases.db
+apache2
+asl
+asl.conf
+auto_home
+auto_master
+autofs.conf
+bashrc
+bashrc_Apple_Terminal
+com.apple.screensharing.agent.launchd
+csh.cshrc
+csh.login
+csh.logout
+cups
+find.codes
+ftpusers
+gettytab
+group
+hosts
+hosts.equiv
+irbrc
+kern_loader.conf
+krb5.keytab
+localtime
+locate.rc
+mail.rc
+man.conf
+manpaths
+manpaths.d
+master.passwd
+networks
+newsyslog.conf
+newsyslog.d
+nfs.conf
+notify.conf
+ntp_opendirectory.conf
+openldap
+pam.d
+passwd
+paths
+paths.d
+pf.anchors
+pf.conf
+pf.os
+postfix
+ppp
+profile
+protocols
+racoon
+rc.common
+rc.netboot
+resolv.conf
+rmtab
+rpc
+rtadvd.conf
+security
+services
+shells
+snmp
+ssh
+ssl
+sudo_lecture
+sudoers
+sudoers.d
+syslog.conf
+ttys
+uucp
+wfs
+xtab
+zprofile
+zshrc
+zshrc_Apple_Terminal
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/etc[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro /etc % [K[?2004hccd /var/log[?2004l
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/var/log[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro log % [K[?2004hlls[?2004l
+CDIS.custom			system.log.0.gz
+CoreDuet			system.log.1.gz
+DiagnosticMessages		system.log.2.gz
+PrivacyPreservingMeasurement	system.log.3.gz
+RazerElevationService.log	system.log.4.gz
+apache2				system.log.5.gz
+asl				system.log.6.gz
+com.apple.wifi.analytics	uucp
+com.apple.wifivelocity		wifi.log
+com.apple.xpc.launchd		wifi.log.0.bz2
+cups				wifi.log.1.bz2
+dm				wifi.log.10.bz2
+fsck_apfs.log			wifi.log.2.bz2
+fsck_apfs_error.log		wifi.log.3.bz2
+fsck_hfs.log			wifi.log.4.bz2
+install.log			wifi.log.5.bz2
+mDNSResponder			wifi.log.6.bz2
+powermanagement			wifi.log.7.bz2
+ppp				wifi.log.8.bz2
+shutdown_monitor.log		wifi.log.9.bz2
+system.log
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/var/log[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro log % [K[?2004hlls usr[1C/usr[1C[1C[1C/bin | wc -1[?2004l
+wc: illegal option -- 1
+usage: wc [-Lclmw] [file ...]
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/var/log[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro log % [K[?2004hls /usr/bin | wc -1   [7m[-Lclmw][27m[8D[27m[[27m-[27mL[27mc[27ml[27mm[27mw[27m -Lclmw [1C[1C[1C[1C[1C[1C     l[?2004l
+     915
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/var/log[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro log % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro ~ % [K[?2004hccd 
+[JApplications/  Downloads/     Music/         brain/         
+Desktop/       Library/       Pictures/      test1*         
+Documents/     Movies/        Public/        [3A[0m[27m[24m[39Ccd[K[1CApplications[1m/[0m[13DDesktop[1m/[0m    [0m [0m [?2004l
+[J[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro Desktop % [K[?2004hccd ~[?2004l
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro ~ % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+Deleting expired sessions...       4 completed.
+
+Script done on Wed May 13 21:23:31 2026

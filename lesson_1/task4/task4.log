@@ -1,0 +1,24 @@
+Script started on Wed May 13 22:01:35 2026
+Restored session: Wed May 13 21:57:37 BST 2026
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task4[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task4 % [K[?2004hssleeap  p 300 &[?2004l
+[1] 56649
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task4[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task4 % [K[?2004hppgrep sleep[?2004l
+44208
+56649
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task4[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task4 % [K[?2004hpps aux | ge rep slle  eep[?2004l
+iisus.rodilsiagmail.com 44208   0.0  0.0 410593200     16   ??  S    19Apr26   0:00.00 sleep 31536000
+iisus.rodilsiagmail.com 56653   0.0  0.0 410724320   1392 s001  S+   10:02PM   0:00.01 grep sleep
+iisus.rodilsiagmail.com 56649   0.0  0.0 410593200   1168 s001  SN   10:01PM   0:00.01 sleep 300
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task4[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task4 % [K[?2004hkkill 56649[?2004l
+[1m[7m%[27m[1m[0m                                                                                [1]  + terminated  sleep 300
+]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task4[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task4 % [K[?2004hkill 56649[10Dps aux | grep sleep[19Dp[8P[10C        [8D[?2004l
+44208
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task4[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task4 % [K[?2004hkkill 44208[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task4[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task4 % [K[?2004hkill 44208[10Dpgrep sleep[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task4[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task4 % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed May 13 22:04:42 2026

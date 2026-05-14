@@ -1,0 +1,84 @@
+Script started on Wed May 13 21:56:45 2026
+Restored session: Wed May 13 21:33:27 BST 2026
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task3[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task3 % [K[?2004haapropos free space[?2004l
+[?1h=df(1)                    - display free disk space
+perlfreebsd(1)           - Perl version 5 on FreeBSD systems
+ATOMIC_VAR_INIT(3), atomic_init(3), atomic_load(3), atomic_store(3), atomic_exc hange(3), atomic_compare_exchange_strong(3), atomic_compare_exchange_weak(3), a tomic_fetch_add(3), atomic_fetch_and(3), atomic_fetch_or(3), atomic_fetch_sub(3 ), atomic_fetch_xor(3), atomic_is_lock_free(3) - type-generic atomic operations
+DBIx::Class::Serialize::Storable(3pm),     DBIx::Class::Serialize::Storable(3pm ) - hooks for Storable nfreeze/thaw
+DBIx::Class::Serialize::Storable5.34(3pm),     DBIx::Class::Serialize::Storable (3pm) - hooks for Storable nfreeze/thaw
+DBIx::Class::Storage::DBI::Sybase::FreeTDS(3pm) - Base class for drivers using  DBD::Sybase over FreeTDS
+FreezeThaw(3pm)          - converting Perl structures to strings and back
+Tcl_Alloc(3tcl), Tcl_Free(3tcl), Tcl_Realloc(3tcl), Tcl_AttemptAlloc(3tcl), Tcl _AttemptRealloc(3tcl), ckalloc(3tcl), ckfree(3tcl), ckrealloc(3tcl), attemptcka lloc(3tcl), attemptckrealloc(3tcl) - allocate or free heap memory
+Tcl_DStringInit(3tcl), Tcl_DStringAppend(3tcl), Tcl_DStringAppendElement(3tcl),  Tcl_DStringStartSublist(3tcl), Tcl_DStringEndSublist(3tcl), Tcl_DStringLength( 3tcl), Tcl_DStringValue(3tcl), Tcl_DStringSetLength(3tcl), Tcl_DStringTrunc(3tc l), Tcl_DStringFree(3tcl), Tcl_DStringResult(3tcl), Tcl_DStringGetResult(3tcl)  - manipulate dynamic strings
+Tcl_GetEncoding(3tcl), Tcl_FreeEncoding(3tcl), Tcl_GetEncodingFromObj(3tcl), Tc l_ExternalToUtfDString(3tcl), Tcl_ExternalToUtf(3tcl), Tcl_UtfToExternalDString (3tcl), Tcl_UtfToExternal(3tcl), Tcl_WinTCharToUtf(3tcl), Tcl_WinUtfToTChar(3tc l), Tcl_GetEncodingName(3tcl), Tcl_SetSystemEncoding(3tcl), Tcl_GetEncodingName FromEnvironment(3tcl), Tcl_GetEncodingNames(3tcl), Tcl_CreateEncoding(3tcl), Tc l_GetEncodingSearchPath(3tcl), Tcl_SetEncodingSearchPath(3tcl), Tcl_GetDefaultE ncodingDir(3tcl), Tcl_SetDefaultEncodingDir(3tcl) - procedures for creating and  using encodings
+Tcl_ParseCommand(3tcl), Tcl_ParseExpr(3tcl), Tcl_ParseBraces(3tcl), Tcl_ParseQu otedString(3tcl), Tcl_ParseVarName(3tcl), Tcl_ParseVar(3tcl), Tcl_FreeParse(3tc l), Tcl_EvalTokens(3tcl), Tcl_EvalTokensStandard(3tcl) - parse Tcl scripts and  expressions
+Tcl_Preserve(3tcl), Tcl_Release(3tcl), Tcl_EventuallyFree(3tcl) - avoid freeing  storage while it is being used
+Tcl_SetObjResult(3tcl), Tcl_GetObjResult(3tcl), Tcl_SetResult(3tcl), Tcl_GetStr ingResult(3tcl), Tcl_AppendResult(3tcl), Tcl_AppendResultVA(3tcl), Tcl_AppendEl ement(3tcl), Tcl_ResetResult(3tcl), Tcl_FreeResult(3tcl) - manipulate Tcl resul t
+Tk_Alloc3DBorderFromObj(3tcl), Tk_Get3DBorder(3tcl), Tk_Get3DBorderFromObj(3tcl ), Tk_Draw3DRectangle(3tcl), Tk_Fill3DRectangle(3tcl), Tk_Draw3DPolygon(3tcl),  Tk_Fill3DPolygon(3tcl), Tk_3DVerticalBevel(3tcl), Tk_3DHorizontalBevel(3tcl), T k_SetBackgroundFromBorder(3tcl), Tk_NameOf3DBorder(3tcl), Tk_3DBorderColor(3tcl ), Tk_3DBorderGC(3tcl), Tk_Free3DBorderFromObj(3tcl), Tk_Free3DBorder(3tcl) - d raw borders with three-dimensional appearance
+:[K[K[?1l>[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task3[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task3 % [K[?2004hmman df[?2004l
+Unknown locale, assuming C
+[?1049h[?1h=DF(1)                      General Commands Manual                      DF(1)
+
+[1mNAME[0m
+     [1mdf[0m – display free disk space
+
+[1mSYNOPSIS[0m
+     [1mdf[0m [[1m--libxo[0m] [[1m-b[0m | [1m-g[0m | [1m-H[0m | [1m-h[0m | [1m-k[0m | [1m-m[0m | [1m-P[0m] [[1m-acIilntY[0m] [[1m-,[0m]
+        [[1m-T[0m [4mtype[24m] [[4mfile[24m | [4mfilesystem[24m [4m...[24m]
+
+[1mLEGACY[0m [1mSYNOPSIS[0m
+     [1mdf[0m [[1m--libxo[0m] [[1m-b[0m | [1m-g[0m | [1m-H[0m | [1m-h[0m | [1m-k[0m | [1m-m[0m | [1m-P[0m] [[1m-acIilnY[0m] [[1m-,[0m] [[1m-T[0m
+     [4mtype[24m] [[1m-t[0m [4mtype[24m] [[4mfile[24m | [4mfilesystem[24m [4m...[24m]
+
+[1mDESCRIPTION[0m
+     The [1mdf[0m utility displays statistics about the amount of free disk space
+     on the specified mounted [4mfile[24m [4msystem[24m or on the file system of which [4mfile[24m
+     is a part.  By default block counts are displayed with an assumed block
+     size of 512 bytes.  If neither a file or a file system operand is
+     specified, statistics for all mounted file systems are displayed
+     (subject to the [1m-t[0m option below).
+
+     The following options are available:
+
+     [1m--libxo[0m
+             Generate output via libxo(3) in a selection of different human
+             and machine readable formats.  See xo_parse_args(3) for details
+             on command line arguments.
+
+     [1m-a[0m      Show all mount points, including those that were mounted with
+             the MNT_IGNORE flag.  This is implied for file systems specified
+             on the command line.
+
+     [1m-b[0m      Explicitly use 512 byte blocks, overriding any BLOCKSIZE
+             specification from the environment.  This is the same as the [1m-P[0m
+             option.  The [1m-k[0m option overrides this option.
+
+     [1m-c[0m      Display a grand total.
+
+     [1m-g[0m      Use 1073741824 byte (1 Gibibyte) blocks rather than the default.
+             This overrides any BLOCKSIZE specification from the environment.
+
+     [1m-h[0m      “Human-readable” output.  Use unit suffixes: Byte, Kibibyte,
+             Mebibyte, Gibibyte, Tebibyte and Pebibyte (based on powers of
+             1024) in order to reduce the number of digits to four or fewer.
+             This applies to the Size, Used, and Avail columns only; the
+:[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task3[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task3 % [K[?2004hddf -h[?2004l
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1   460Gi    16Gi   324Gi     5%    426k  3.4G    0%   /
+devfs            199Ki   199Ki     0Bi   100%     690     0  100%   /dev
+/dev/disk3s6     460Gi   8.0Gi   324Gi     3%       8  3.4G    0%   /System/Volumes/VM
+/dev/disk3s2     460Gi    14Gi   324Gi     5%    1.8k  3.4G    0%   /System/Volumes/Preboot
+/dev/disk3s4     460Gi   736Mi   324Gi     1%     309  3.4G    0%   /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   481Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1     500Mi   5.4Mi   481Mi     2%      35  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   2.4Mi   481Mi     1%      56  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5     460Gi    95Gi   324Gi    23%    1.5M  3.4G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/dev/disk3s1     460Gi    16Gi   324Gi     5%    447k  3.4G    0%   /System/Volumes/Update/mnt1
+[1m[7m%[27m[1m[0m                                                                               ]7;file://MacBookPro.mynet/Users/iisus.rodilsiagmail.com/Desktop/learn/lesson_1/task3[0m[27m[24m[Jiisus.rodilsiagmail.com@MacBookPro task3 % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Wed May 13 21:57:37 2026
